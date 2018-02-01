@@ -1,7 +1,5 @@
 # PhiOS (ASCII Rendering Engine for Unity)
 
-![PhiOS Demo](https://media.giphy.com/media/l4pTbwOhafHWbylJC/giphy.gif)
-
 I  am _not_ the original creator of this Library.
 Pasting to GitHub for Visibility and Maintainability.
 Refer to license details
