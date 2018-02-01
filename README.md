@@ -1,14 +1,15 @@
 # PhiOS (ASCII Rendering Engine for Unity)
 
-I am _not_ the original creator of this Library.
+I  am _not_ the original creator of this Library.
 Pasting to GitHub for Visibility and Maintainability.
 Refer to license details
 
---------------------------------------------
-AUTHOR: https://twitter.com/phi6
-LICENSE: CC BY 4.0
-https://creativecommons.org/licenses/by/4.0/
---------------------------------------------
+***
+AUTHOR: [phi6](https://twitter.com/phi6)
+
+LICENSE: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+
+***
 
 This is the first (base) version of PhiOS, which provides cell rendering, cell stacking/layers,
 foreground & background colors, cell transition animations, bitmap font support & rudimentary mouse input.
