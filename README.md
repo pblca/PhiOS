@@ -9,7 +9,7 @@ Refer to license details
 ***
 [Usage Details](https://github.com/codyjb/PhiOS/wiki)
 
-[Latest Release](https://github.com/codyjb/PhiOS/releases)
+[Latest Release](https://github.com/codyjb/PhiOS/releases/latest)
 ***
 
 This is the first (base) version of PhiOS, which provides cell rendering, cell stacking/layers,
