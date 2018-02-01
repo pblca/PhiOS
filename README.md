@@ -6,6 +6,10 @@ Pasting to GitHub for Visibility and Maintainability.
 
 Refer to license details
 
+***
+[Usage Details](https://github.com/codyjb/PhiOS/wiki)
+
+[Latest Release](https://github.com/codyjb/PhiOS/releases)
 
 This is the first (base) version of PhiOS, which provides cell rendering, cell stacking/layers,
 foreground & background colors, cell transition animations, bitmap font support & rudimentary mouse input.
