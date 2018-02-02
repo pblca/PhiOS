@@ -1,4 +1,5 @@
 # PhiOS (ASCII Rendering Engine for Unity)
+![Sample GIF](https://github.com/codyjb/PhiOS/blob/master/Documentation/ezgif-4-5ea6d2a713.gif)
 
 I  am _not_ the original creator of this Library.
 
